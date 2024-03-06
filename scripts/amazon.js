@@ -1,3 +1,4 @@
+import { Cart } from "../data/cart.js";
 let productsHTML = "";
 
 products.forEach((product) => {
